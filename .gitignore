@@ -1,0 +1,15 @@
+/data/
+/data_demo/
+/assets/
+/pretrain_model/
+/SAM_Med2D/
+/workdir/
+/assets/
+/scripts/
+/examples/
+__pycache__
+/License/
+app.ipynb
+
+*.pyc
+
